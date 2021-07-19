@@ -108,5 +108,11 @@
     font-size: 15px;
 }
 .ravand {
+    float: right;
     min-height: 0px;
+    padding: 0px !important;
+    margin-bottom: 30px;
+    border-radius: 3px;
+    background-color: white;
+    box-shadow: 0.07px 0.998px 7px 0px rgb(18 22 26 / 22%);
 }
