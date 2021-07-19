@@ -99,5 +99,10 @@
 .description {
     margin-right: auto !important;
 }
-
+.MenuMainUl.mainUl .mainParts a.MenuListLiA, #MenuV2 .MenuMainUl.mainUl .mainParts a.MenuListLiA {
+    padding: 0px;
+    }
+.MenuMainUl.mainUl .mainParts a.MenuListLiA {
+    font-size: 15px;
+}
 }
