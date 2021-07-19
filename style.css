@@ -103,6 +103,21 @@
 .MenuMainUl.mainUl .mainParts a.MenuListLiA, #MenuV2 .MenuMainUl.mainUl .mainParts a.MenuListLiA {
     padding: 0px;
     }
-#MenuV2 .MenuMainUl.mainUl .mainParts a.MenuListLi {
+#MenuV2 {
+  position: static !important;
+  top: auto !important;
+  transform: unset !important;
+  text-align: right !important;
+  margin-top: 25px;
+  margin-bottom: 0 !important;
+  .MenuMainUl.mainUl .mainParts a.MenuListLiA {
     font-size: 15px;
+  }
+  #megaMenuTabContent {
+     border: none !important;
+     padding: 0  !important;
+     box-shadow: none !important;
+     margin-top: 0 !important;
+     margin-bottom:0 !important;
+  }
 }
