@@ -486,8 +486,8 @@ body section .bg-light-gray .table tbody .white td {
   border:none !important;
 }
 body section .table thead tr th{
-  background: transparent;
-  border: none;
+  background: transparent !important;
+  border: none !important;
 }
 body section .display-table-row-group {
   display: table-row-group !important;
