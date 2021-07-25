@@ -453,6 +453,7 @@ body section .bg-light-gray .table tbody tr td:last-child {
 }
 body section .bg-light-gray .table tbody tr td .btn-yellow {
   background-color: #f7f7f7;
+  color: #000;
   padding: 0.4rem 0.75rem !important;
   border: 2px solid #000;
   border-radius: 50px;
