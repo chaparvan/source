@@ -419,6 +419,7 @@ body section .bg-light-gray .table thead {
 
 body section .bg-light-gray .table thead th {
   font-weight: 500 !important;
+  font-family: iranyekan !important;
 }
 
 body section .bg-light-gray .table tbody {
