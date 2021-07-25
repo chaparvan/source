@@ -457,7 +457,9 @@ body section .bg-light-gray .table tbody tr td:last-child {
   border-top-left-radius: 50px;
   border-bottom-left-radius: 50px;
 }
-
+.chap_table-responsive{
+  width: 100%;
+}
 body section .bg-light-gray .table tbody tr td .btn-yellow {
   background-color: #f7f7f7;
   padding: 0.4rem 0.75rem !important;
