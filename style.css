@@ -488,6 +488,7 @@ body section .bg-light-gray .table tbody .white td {
 }
 #chap_content .table tr td {
     border: none !important;
+    vertical-align: middle !important;
 }
 body section .table thead tr th{
   background: transparent !important;
