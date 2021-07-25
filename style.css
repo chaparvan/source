@@ -145,16 +145,6 @@
     text-align: center;
 }
 /* ----------------------------------------------------- */
-@font-face {
-  font-family: "yekan";
-  src: url("../fonts/Yekan_Bakh_Regular.woff") format("woff");
-}
-
-@font-face {
-  font-family: "yekan-bold";
-  src: url("../fonts/Yekan_Bakh_Bold.woff") format("woff");
-}
-
 html {
   scroll-behavior: smooth;
 }
@@ -353,7 +343,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: "yekan-bold";
+    font-family: iranyekan !important;
 }
 
 :focus {
@@ -374,14 +364,14 @@ a {
 
 body {
   direction: rtl;
-  font-family: "yekan";
+  font-family: iranyekan !important;
 }
 
 body header nav .navbar-new {
   background-color: #2d2f33;
   padding: 10px 20px;
   color: #f8f9fb !important;
-  font-weight: "yekan-bold";
+  font-family: iranyekan !important;
   margin-bottom: 20px;
   border-radius: 50px;
   overflow-x: auto;
@@ -424,7 +414,7 @@ body section .bg-light-gray .table {
 }
 
 body section .bg-light-gray .table thead {
-  font-family: "yekan-bold";
+  font-family: iranyekan !important;
 }
 
 body section .bg-light-gray .table thead th {
@@ -481,7 +471,7 @@ body section .bg-light-gray .table tbody tr td .btn-yellow:hover {
 
 body section .bg-light-gray .table tbody tr .money {
   color: #06c45b;
-  font-family: "yekan-bold";
+  font-family: iranyekan !important;
 }
 
 body section .bg-light-gray .table tbody .white td {
