@@ -497,7 +497,7 @@ body section .display-table-row-group {
   display: table-row-group !important;
 }
 @media screen and (max-width: 779px) {
-    body section .bg-light-gray .table {
+    body section .bg-light-gray .table , .chap_table-responsive{
         width: 670px;
     }
 }
