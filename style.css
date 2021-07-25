@@ -485,6 +485,10 @@ body section .bg-light-gray .table tbody .white td {
   transition: all 0s ease !important;
   border:none !important;
 }
+body section .table thead tr th{
+  background: transparent;
+  border: none;
+}
 body section .display-table-row-group {
   display: table-row-group !important;
 }
