@@ -13,7 +13,7 @@ let changeItem = (self, id) => {
   document.querySelector(id).classList.add("display-table-row-group");
 };
 if (document.getElementById("firstProduct")) {
-  // تراکت
+  // کارت ویزیت ساده
   const firstProduct = {
     product: [
       {
@@ -101,6 +101,72 @@ if (document.getElementById("firstProduct")) {
         delivery: "7",
         price: 87000,
         href: "https://chaparvan.com/product/MjU1NjUz=/%DA%A9%D8%A7%D8%B1%D8%AA-%D9%88%DB%8C%D8%B2%DB%8C%D8%AA-%D8%B3%D9%84%D9%81%D9%88%D9%86-%D8%A8%D8%B1%D8%A7%D9%82-%D8%AF%D9%88%D8%B1%D9%88-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
+        btn: "خرید",
+        classHtml: "white",
+      },
+      {
+        title: "سلفون مات",
+        side: "یک رو",
+        size: "4.8 * 8.5",
+        circulation: "1000",
+        delivery: "1",
+        price: 79000,
+        href: "https://chaparvan.com/product/MjU1NjU0=/%DA%A9%D8%A7%D8%B1%D8%AA-%D9%88%DB%8C%D8%B2%DB%8C%D8%AA-%D8%B3%D9%84%D9%81%D9%88%D9%86-%D9%85%D8%A7%D8%AA-%DB%8C%DA%A9%D8%B1%D9%88-1%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
+        btn: "خرید",
+        classHtml: "",
+      },
+      {
+        title: "",
+        side: "یک رو",
+        size: "4.8 * 8.5",
+        circulation: "1000",
+        delivery: "3",
+        price: 71000,
+        href: "https://chaparvan.com/product/MjU1NjU1=/%DA%A9%D8%A7%D8%B1%D8%AA-%D9%88%DB%8C%D8%B2%DB%8C%D8%AA-%D8%B3%D9%84%D9%81%D9%88%D9%86-%D9%85%D8%A7%D8%AA-%DB%8C%DA%A9%D8%B1%D9%88-3%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
+        btn: "خرید",
+        classHtml: "white",
+      },
+      {
+        title: "",
+        side: "یک رو",
+        size: "4.8 * 8.5",
+        circulation: "1000",
+        delivery: "7",
+        price: 66000,
+        href: "https://chaparvan.com/product/MjU1NjU2=/%DA%A9%D8%A7%D8%B1%D8%AA-%D9%88%DB%8C%D8%B2%DB%8C%D8%AA-%D8%B3%D9%84%D9%81%D9%88%D9%86-%D9%85%D8%A7%D8%AA-%DB%8C%DA%A9%D8%B1%D9%88-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
+        btn: "خرید",
+        classHtml: "white",
+      },
+      {
+        title: "",
+        side: "دو رو",
+        size: "4.8 * 8.5",
+        circulation: "1000",
+        delivery: "1",
+        price: 100000,
+        href: "https://chaparvan.com/product/MjU1NjU3=/%DA%A9%D8%A7%D8%B1%D8%AA-%D9%88%DB%8C%D8%B2%DB%8C%D8%AA-%D8%B3%D9%84%D9%81%D9%88%D9%86-%D9%85%D8%A7%D8%AA-%D8%AF%D9%88%D8%B1%D9%88-1%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
+        btn: "خرید",
+        classHtml: "white",
+      },
+      {
+        title: "",
+        side: "دو رو",
+        size: "4.8 * 8.5",
+        circulation: "1000",
+        delivery: "3",
+        price: 92000,
+        href: "https://chaparvan.com/product/MjU1NjU4=/%DA%A9%D8%A7%D8%B1%D8%AA-%D9%88%DB%8C%D8%B2%DB%8C%D8%AA-%D8%B3%D9%84%D9%81%D9%88%D9%86-%D9%85%D8%A7%D8%AA-%D8%AF%D9%88%D8%B1%D9%88-3%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
+        btn: "خرید",
+        classHtml: "white",
+      },
+      {
+        title: "",
+        side: "دو رو",
+        size: "4.8 * 8.5",
+        circulation: "1000",
+        delivery: "7",
+        price: 87000,
+        href: "https://chaparvan.com/product/MjU1NjU5=/%DA%A9%D8%A7%D8%B1%D8%AA-%D9%88%DB%8C%D8%B2%DB%8C%D8%AA-%D8%B3%D9%84%D9%81%D9%88%D9%86-%D9%85%D8%A7%D8%AA-%D8%AF%D9%88%D8%B1%D9%88-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
       },
