@@ -487,6 +487,7 @@ body section .bg-light-gray .table tbody .white td {
   border-radius: 0px !important;
   transition: all 0s ease !important;
   border:none !important;
+  color: #000000 !important;
 }
 #chap_content .table tr td {
     border: none !important;
