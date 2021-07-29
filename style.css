@@ -382,8 +382,8 @@ body header nav .navbar-new {
 
 body header nav .navbar-new li {
   display: inline-block;
-  margin-left: 10px;
-  padding: 6px 17px;
+  margin-left: 0px;
+  padding: 6px 7px;
   border-radius: 50px;
   cursor: pointer;
 }
