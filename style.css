@@ -505,6 +505,6 @@ body section .display-table-row-group {
 }
 @media screen and (max-width: 779px) {
     body section .bg-light-gray .table , .chap_table-responsive{
-        width: 320px !important;
+        width: 670px !important;
     }
 }
