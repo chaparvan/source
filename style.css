@@ -503,10 +503,8 @@ body section .display-table-row-group {
 .table-responsive{
     border: none;
 }
-/*
 @media screen and (max-width: 779px) {
     body section .bg-light-gray .table , .chap_table-responsive{
-        width: 670px !important;
+        width: 320px !important;
     }
 }
-*/
