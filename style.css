@@ -364,16 +364,14 @@ a {
   transition: all 0.3s ease-in-out;
 }
 #loader {
-    position: absolute;
-    top: calc(50% - 1em);
-    left: calc(50% - 3em);
+    margin-top:30px;
 }
 #loader span {
     display: inline-block;
     width: 18px;
     height: 18px;
     border-radius: 100%;
-    background-color: #fc466b;
+    background-color: #ff9c00;
     margin: 0 5px;
 }
 #loader span:nth-child(1) {
