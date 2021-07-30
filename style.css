@@ -566,15 +566,6 @@ body section .bg-light-gray .table tbody .white td {
   border:none !important;
   color: #000000 !important;
 }
-@keyframes slidein {
-  0% {
-    color:#000;
-  }
-
-  100% {
-    color: #ff9c00;
-  }
-}
 #chap_content .table tr td {
     border: none !important;
     vertical-align: middle !important;
@@ -619,7 +610,7 @@ top: -11px;
     }
     #lightTableMenuNav svg{
     width: 22px;
-     animation: slidein 1s infinite;
+    color: #ff9c00;
         margin-left:4px;
           margin-right:4px;
         vertical-align: middle;
