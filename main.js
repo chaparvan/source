@@ -1148,3 +1148,6 @@ if (document.getElementById("firstProduct")) {
     .getElementById("navbar-new")
     .children[5].setAttribute("onclick", "changeItem(this ,'#sixthProduct')");
 }
+if (document.getElementById("quickAccess")) {
+   document.querySelector('html').style.scrollBehavior = 'smooth' //scroll-behavior: smooth;
+}
