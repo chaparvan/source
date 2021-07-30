@@ -1,4 +1,3 @@
-document.body.addEventListener('load', loader)
 document.getElementById("loader").innerHTML = `<span></span>
 <span></span>
 <span></span>`;
@@ -18,8 +17,9 @@ let changeItem = (self, id) => {
   document.querySelector(id).classList.add("display-table-row-group");
 };
 function loader() {
-  setTimeout(showPage, 1000);
+  setTimeout(showPage, 2000);
 }
+loader()
 function showPage() {
   document.getElementById("loader").style.display = "none";
   document.getElementById("headerNewTable").style.display = "block";
