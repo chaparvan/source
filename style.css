@@ -450,6 +450,7 @@ body section .bg-light-gray .table tbody tr td:last-child {
 }
 .chap_table-responsive{
   width: 100% !important;
+  overflow-x: visible !important;
 }
 body section .bg-light-gray .table tbody tr td .btn-yellow {
   background-color: #f7f7f7;
