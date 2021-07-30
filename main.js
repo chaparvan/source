@@ -1,4 +1,4 @@
-document.getElementsByTagName('body').addEventListener('load', loader)
+document.body.addEventListener('load', loader)
 document.getElementById("loader").innerHTML = `<span></span>
 <span></span>
 <span></span>`;
