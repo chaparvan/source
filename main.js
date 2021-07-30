@@ -1,3 +1,4 @@
+document.getElementsByTagName('body').addEventListener('load', loader)
 document.getElementById("loader").innerHTML = `<span></span>
 <span></span>
 <span></span>`;
@@ -19,7 +20,6 @@ let changeItem = (self, id) => {
 function loader() {
   setTimeout(showPage, 1000);
 }
-loader();
 function showPage() {
   document.getElementById("loader").style.display = "none";
   document.getElementById("headerNewTable").style.display = "block";
