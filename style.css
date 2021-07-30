@@ -577,6 +577,9 @@ body section .table thead tr th{
 body section .display-table-row-group {
   display: table-row-group !important;
 }
+ #lightTableMenuNav{
+    display:none;
+ }
 .table-responsive{
     border: none;
 }
@@ -598,6 +601,12 @@ body section .display-table-row-group {
 @media screen and (max-width: 500px) {
     #loader {
     margin-top: 52%;
+    }
+    #lightTableMenuNav{
+    display:block;
+    }
+    #lightTableMenuNav svg{
+    width: 22px;
     }
 }
 @media screen and (max-width: 767px) {
