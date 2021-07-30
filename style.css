@@ -618,7 +618,8 @@ body section .display-table-row-group {
     #lightTableMenuNav svg{
     width: 22px;
      animation: slidein 1s infinite;
-        margin: 0 4px;
+        margin-left:4px;
+          margin-right:4px;
         vertical-align: middle;
     }
     #sectionNewTable{
