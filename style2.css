@@ -202,3 +202,48 @@ line-height: 30px;
 list-style: square !important;
     color:#000;
 }
+#boxQuestionAnswer .question {
+    z-index: 1;
+    width: 85%;
+    margin: 15px 7.5% 0;
+    position: relative;
+    border-radius: 10px;
+    padding: 20px 20px 20px 60px;
+    cursor: pointer;
+    transition: 0.2s;
+    box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15);
+    color: #555;
+}
+#boxQuestionAnswer .question::after {
+    content: "\002B";
+    font-size: 25px;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    left: 25px;
+    top: 50%;
+}
+#boxQuestionAnswer .answer {
+    z-index: 0;
+    width: 80%;
+    margin: 0 10%;
+    border-radius: 0 0 10px 10px;
+    height: 0;
+    overflow: hidden;
+    transition: 0.5s;
+    color: #555;
+    box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.15);
+}
+#boxQuestionAnswer .answer p {
+    padding: 15px;
+    margin: 0;
+}
+#boxQuestionAnswer .question:hover,
+#boxQuestionAnswer .question-active {
+    color: #000;
+    box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.25);
+    background-image: linear-gradient(to right, #fdb913, #ffd400);
+}
+
+#boxQuestionAnswer .question-active::after {
+    content: "\2212";
+}
