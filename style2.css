@@ -241,7 +241,7 @@ list-style: square !important;
 #boxQuestionAnswer .question-active {
     color: #000;
     box-shadow: 0 1px 5px 0 rgba(0, 0, 0, 0.25);
-    background-image: linear-gradient(to right, #fdb913, #ffd400);
+    background: #ff9c00;
 }
 
 #boxQuestionAnswer .question-active::after {
