@@ -633,6 +633,8 @@ body section .display-table-row-group {
       font-size: 14px !important;
     }
     body section .bg-light-gray {
+      position: relative;
+top: -7px;
       padding: 20px 5px;
     }
     body section .table tbody tr{
