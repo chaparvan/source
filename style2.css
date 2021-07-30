@@ -155,3 +155,10 @@ rules page
     border: 0;
     border-right: 10px solid;
 }
+#rulesNewUi ul{
+    line-height: 31px;
+    font-size: 15px;
+    color: #757575;
+    margin-bottom: 10px;
+}
+#rulesNewUi ul li{list-style: circle;}
