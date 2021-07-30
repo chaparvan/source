@@ -516,8 +516,11 @@ body section .display-table-row-group {
     }
     
     body section .bg-light-gray .table tbody tr td:last-child{
-        padding: 4px;
+        padding-left: 4px;
     }
+    body section .bg-light-gray .table tbody tr td:first-child {
+    padding-right: 3px;
+}
 }
 @media screen and (max-width: 400px) {
     body section .bg-light-gray .table thead th {
@@ -531,7 +534,7 @@ body section .display-table-row-group {
     }
     
     body section .bg-light-gray .table tbody tr td:last-child{
-        padding: 3px;
+        padding-left: 3px;
     }
 }
 @media screen and (max-width: 365px) {
@@ -543,6 +546,6 @@ body section .display-table-row-group {
     }
     
     body section .bg-light-gray .table tbody tr td:last-child{
-        padding: 2px;
+        padding-left: 2px;
     }
 }
