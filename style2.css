@@ -171,9 +171,7 @@ rules page
     color: #c29e0d;
     border-bottom: 3px dotted #c29e0d;
 }
-html {
-  scroll-behavior: smooth;
-}
+
 #quickAccess{
 background: #edc93c33;
 padding: 25px 15px;
