@@ -1152,3 +1152,18 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
 if (document.getElementById("quickAccess")) {
    document.querySelector('html').style.scrollBehavior = 'smooth' //scroll-behavior: smooth;
 }
+if (document.getElementById("boxQuestionAnswer")) {
+  let tgQuestionTab = document.getElementsByClassName("question");
+let tgQuestionTabi;
+for (tgQuestionTabi = 0; tgQuestionTabi < tgQuestionTab.length; tgQuestionTabi++) {
+  tgQuestionTab[tgQuestionTabi].addEventListener("click", function() {
+    this.classList.toggle("question-active");
+    var tgQuestionContent = this.nextElementSibling;
+    if (tgQuestionContent.style.height) {
+      tgQuestionContent.style.height = null;
+    } else {
+      tgQuestionContent.style.height = tgQuestionContent.scrollHeight + "px";
+    } 
+  });
+}
+}
