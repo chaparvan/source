@@ -171,7 +171,7 @@ rules page
     color: #c29e0d;
     border-bottom: 3px dotted #c29e0d;
 }
-* {
+.smooth {
   -webkit-transition: all 0.3s ease-in-out;
   -moz-transition: all 0.3s ease-in-out;
   -o-transition: all 0.3s ease-in-out;
