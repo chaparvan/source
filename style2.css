@@ -162,3 +162,12 @@ rules page
     margin-bottom: 10px;
 }
 #rulesNewUi ul li{list-style: circle;}
+#rulesNewUi ul li a{
+    
+    color: #e9bd10;
+    border-bottom: 3px dotted #e9bd10;
+}
+#rulesNewUi ul li a:hover{
+    color: #c29e0d;
+    border-bottom: 3px dotted #c29e0d;
+}
