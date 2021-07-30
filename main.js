@@ -15,7 +15,7 @@ let changeItem = (self, id) => {
 function loader() {
   setTimeout(showPage, 2000);
 }
-loader()
+
 function showPage() {
   document.getElementById("loader").style.display = "none";
   document.getElementById("headerNewTable").style.display = "block";
@@ -26,7 +26,7 @@ if (document.getElementById("firstProduct")) {
 <span></span>
 <span></span>`;
 
-  
+ loader() 
   // کارت ویزیت ساده
   const firstProduct = {
     product: [
