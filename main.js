@@ -19,7 +19,7 @@ let changeItem = (self, id) => {
 function loader() {
   setTimeout(showPage, 1000);
 }
-//loader();
+loader();
 function showPage() {
   document.getElementById("loader").style.display = "none";
   document.getElementById("headerNewTable").style.display = "block";
