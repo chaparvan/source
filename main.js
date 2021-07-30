@@ -1,7 +1,3 @@
-document.getElementById("loader").innerHTML = `<span></span>
-<span></span>
-<span></span>`;
-
 let changeItem = (self, id) => {
   //change navbar active item
   let navLi = document.querySelectorAll(".navbar-new li");
@@ -26,6 +22,11 @@ function showPage() {
   document.getElementById("sectionNewTable").style.display = "block";
 }
 if (document.getElementById("firstProduct")) {
+  document.getElementById("loader").innerHTML = `<span></span>
+<span></span>
+<span></span>`;
+
+  
   // کارت ویزیت ساده
   const firstProduct = {
     product: [
