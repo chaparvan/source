@@ -247,7 +247,9 @@ section {
 nav ul {
   list-style: none;
 }
-
+#headerNewTable , #sectionNewTable{
+  display: none;
+}
 blockquote,
 q {
   quotes: none;
