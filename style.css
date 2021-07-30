@@ -504,4 +504,9 @@ body section .display-table-row-group {
 .table-responsive{
     border: none;
 }
-
+@media screen and (max-width: 767px) {
+    body section .bg-light-gray .table thead th {
+      font-size: 14px !important;
+    }
+    
+}
