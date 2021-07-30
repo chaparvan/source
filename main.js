@@ -1147,6 +1147,7 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
   document
     .getElementById("navbar-new")
     .children[5].setAttribute("onclick", "changeItem(this ,'#sixthProduct')");
+  document.querySelector('html').style.scrollBehavior = 'smooth' //scroll-behavior: smooth;
 }
 if (document.getElementById("quickAccess")) {
    document.querySelector('html').style.scrollBehavior = 'smooth' //scroll-behavior: smooth;
