@@ -566,6 +566,16 @@ body section .bg-light-gray .table tbody .white td {
   border:none !important;
   color: #000000 !important;
 }
+.btn-yl{
+    border-radius: 50px;
+background: #ff9c00;
+color: #fff;
+}
+.btn-yl:hover{
+    border-radius: 50px;
+background: #e88e00;
+color: #fff;
+}
 #chap_content .table tr td {
     border: none !important;
     vertical-align: middle !important;
@@ -577,9 +587,10 @@ body section .table thead tr th{
 body section .display-table-row-group {
   display: table-row-group !important;
 }
- #lightTableMenuNav{
+ #lightTableMenuNav , #btnNew{
     display:none;
  }
+
 .table-responsive{
     border: none;
 }
@@ -601,6 +612,11 @@ body section .display-table-row-group {
 @media screen and (max-width: 500px) {
     #loader {
     margin-top: 52%;
+    }
+    #btnNew{
+    display:block;
+    top: -63px;
+    position: relative;
     }
     #lightTableMenuNav{
     display:block;
