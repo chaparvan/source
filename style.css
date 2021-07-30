@@ -613,11 +613,13 @@ body section .display-table-row-group {
     }
     #lightTableMenuNav{
     display:block;
+        color: #484848;
     }
     #lightTableMenuNav svg{
     width: 22px;
      animation: slidein 1s infinite;
-        margin-left: 4px;
+        margin: 0 4px;
+        vertical-align: middle;
     }
     #sectionNewTable{
     position: relative;
