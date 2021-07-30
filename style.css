@@ -508,5 +508,10 @@ body section .display-table-row-group {
     body section .bg-light-gray .table thead th {
       font-size: 14px !important;
     }
-    
+    body section .bg-light-gray {
+      padding: 20px 5px;
+    }
+    body section .table tbody tr{
+      font-size: 13px !important;
+    }
 }
