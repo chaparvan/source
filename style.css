@@ -614,6 +614,8 @@ body section .display-table-row-group {
     #lightTableMenuNav{
     display:block;
         color: #484848;
+        position: relative;
+top: -11px;
     }
     #lightTableMenuNav svg{
     width: 22px;
