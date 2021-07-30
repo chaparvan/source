@@ -161,7 +161,7 @@ rules page
     color: #757575;
     margin-bottom: 10px;
 }
-#rulesNewUi ul li{list-style: circle; text-align: justify !important;}
+#rulesNewUi ul li{list-style: circle;}
 #rulesNewUi ul li a{
     
     color: #e9bd10;
