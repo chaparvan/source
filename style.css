@@ -534,3 +534,15 @@ body section .display-table-row-group {
         padding: 3px;
     }
 }
+@media screen and (max-width: 400px) {
+    body section .bg-light-gray .table thead th {
+      font-size: 12px !important;
+    }
+    body section .table tbody tr{
+      font-size: 11px !important;
+    }
+    
+    body section .bg-light-gray .table tbody tr td:last-child{
+        padding: 2px;
+    }
+}
