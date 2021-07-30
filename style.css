@@ -566,6 +566,15 @@ body section .bg-light-gray .table tbody .white td {
   border:none !important;
   color: #000000 !important;
 }
+@keyframes slidein {
+  0% {
+    color:#000;
+  }
+
+  100% {
+    color: #ff9c00;
+  }
+}
 #chap_content .table tr td {
     border: none !important;
     vertical-align: middle !important;
@@ -607,7 +616,16 @@ body section .display-table-row-group {
     }
     #lightTableMenuNav svg{
     width: 22px;
+     animation: slidein 1s infinite;
     }
+    #sectionNewTable{
+    position: relative;
+    top: 26px;
+    }
+    #chap_content .table {
+    position: relative;
+    top: -24px;
+}
 }
 @media screen and (max-width: 767px) {
     body section .bg-light-gray .table thead th {
