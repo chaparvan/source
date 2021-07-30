@@ -511,11 +511,11 @@ body section .display-table-row-group {
     body section .bg-light-gray {
       padding: 20px 5px;
     }
-    body section .table tbody tr td:last-child{
+    body section .table tbody tr{
       font-size: 13px !important;
     }
     
-    {
+    body section .bg-light-gray .table tbody tr td:last-child{
         padding: 4px;
     }
 }
