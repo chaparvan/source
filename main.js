@@ -70,7 +70,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3NzQy=/%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A6-%DB%8C%DA%A9%D8%B1%D9%88-3%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -82,7 +81,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3NzQy=/%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A6-%DB%8C%DA%A9%D8%B1%D9%88-3%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -94,7 +92,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3NzQy=/%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A6-%DB%8C%DA%A9%D8%B1%D9%88-3%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -106,7 +103,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3NzQ0=/%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A6-%DB%8C%DA%A9%D8%B1%D9%88-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -118,7 +114,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3NzQ0=/%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A6-%DB%8C%DA%A9%D8%B1%D9%88-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -130,8 +125,8 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3NzQ0=/%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A6-%DB%8C%DA%A9%D8%B1%D9%88-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
-      },{
+      },
+      {
         title: "",
         side: "یک رو",
         size: "A5",
@@ -141,7 +136,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3Nzcx=/%DA%86%D8%A7%D9%BE-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A5-%DB%8C%DA%A9%D8%B1%D9%88-1%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -153,7 +147,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3Nzcx=/%DA%86%D8%A7%D9%BE-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A5-%DB%8C%DA%A9%D8%B1%D9%88-1%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -165,7 +158,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3Nzcz=/%DA%86%D8%A7%D9%BE-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A5-%DB%8C%DA%A9%D8%B1%D9%88-3%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -177,7 +169,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3Nzcz=/%DA%86%D8%A7%D9%BE-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A5-%DB%8C%DA%A9%D8%B1%D9%88-3%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -189,7 +180,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3Nzcz=/%DA%86%D8%A7%D9%BE-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A5-%DB%8C%DA%A9%D8%B1%D9%88-3%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },{
         title: "",
         side: "یک رو",
@@ -200,7 +190,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3Nzc0=/%DA%86%D8%A7%D9%BE-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A5-%DB%8C%DA%A9%D8%B1%D9%88-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -212,7 +201,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3Nzc0=/%DA%86%D8%A7%D9%BE-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A5-%DB%8C%DA%A9%D8%B1%D9%88-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -224,7 +212,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3Nzc0=/%DA%86%D8%A7%D9%BE-%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A5-%DB%8C%DA%A9%D8%B1%D9%88-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -236,7 +223,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3Nzgw=/%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A4-%DB%8C%DA%A9%D8%B1%D9%88-1%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -248,7 +234,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3Nzgw=/%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A4-%DB%8C%DA%A9%D8%B1%D9%88-1%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -260,7 +245,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3Nzgx=/%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A4-%DB%8C%DA%A9%D8%B1%D9%88-3%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -272,7 +256,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3Nzgx=/%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A4-%DB%8C%DA%A9%D8%B1%D9%88-3%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
       {
         title: "",
@@ -284,7 +267,6 @@ document.getElementById("lightTableMenuNav").innerHTML = `منو را به چپ 
         href: "https://chaparvan.com/product/MjU3Nzgx=/%D8%AA%D8%B1%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-A4-%DB%8C%DA%A9%D8%B1%D9%88-3%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
         btn: "خرید",
         classHtml: "white",
-        ",
       },
     ],
   };
