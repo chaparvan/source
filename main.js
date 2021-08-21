@@ -291,7 +291,7 @@ const secondProduct={product:[{title:"طرح چرم",side:"دو رو",size:"4.8 
   for (i = 0; i < ninthProduct.product.length; i++) {
     let ninthProducttHtml = document.querySelector("#ninthProduct");
     ninthProductHtml.innerHTML += `
-      <tr class="${eighthProduct.product[i].classHtml}">
+      <tr class="${ninthProduct.product[i].classHtml}">
           <td>${ninthProduct.product[i].title}</td>
           <td>${ninthProduct.product[i].side}</td>
           <td>${ninthProduct.product[i].size}</td>
