@@ -219,7 +219,7 @@ const secondProduct={product:[{title:"طرح چرم",side:"دو رو",size:"4.8 
       </tr>
     
     `;
-    
+  } 
   for (i = 0; i < document.getElementsByTagName("td").length; i++) {
     if (document.getElementsByTagName("td")[i].innerText.length == 0) {
       document.getElementsByTagName("td")[i].style.visibility = "hidden";
