@@ -13,7 +13,7 @@ let changeItem = (self, id) => {
   document.querySelector(id).classList.add("display-table-row-group");
 };
 function loader() {
-  setTimeout(showPage, 7000);
+  setTimeout(showPage, 10000);
 }
 
 function showPage() {
