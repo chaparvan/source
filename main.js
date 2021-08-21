@@ -241,27 +241,6 @@ const secondProduct={product:[{title:"طرح چرم",side:"دو رو",size:"4.8 
     
     `;
   }
-    for (i = 0; i < eighthProduct.product.length; i++) {
-    let eighthProductHtml = document.querySelector("#eighthProduct");
-    eighthProductHtml.innerHTML += `
-      <tr class="${eighthProduct.product[i].classHtml}">
-          <td>${eighthProduct.product[i].title}</td>
-          <td>${eighthProduct.product[i].side}</td>
-          <td>${eighthProduct.product[i].size}</td>
-          <td>${eighthProduct.product[i].circulation}</td>
-          <td>${eighthProduct.product[i].delivery}</td>
-          <td class="money">${Number(
-            eighthProduct.product[i].price.toFixed(1)
-          ).toLocaleString()}</td>
-          <td><a href="${
-            eighthProduct.product[i].href
-          }"><button class="btn btn-yellow"><svg class="svg-inline--fa fa-shopping-bag fa-w-14" aria-hidden="true" focusable="false" data-prefix="fad" data-icon="shopping-bag" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""><g class="fa-group"><path class="fa-secondary" fill="currentColor" d="M.06 160v-.13l96 .06v-32C96.12 57.35 153.57 0 224.15 0s128 57.49 127.92 128.07V160h-64v-32a64 64 0 0 0-128-.08v32h64z"></path><path class="fa-primary" fill="currentColor" d="M.06 159.87l-.16 272a80 80 0 0 0 79.95 80.05l288 .16a80 80 0 0 0 80-80l.16-272zM128 247.94a24 24 0 1 1 24-24 24 24 0 0 1-24 24zm192 .12a24 24 0 1 1 24-24 24 24 0 0 1-24 24z"></path></g></svg>${
-      eighthProduct.product[i].btn
-    }</button></a></td>
-      </tr>
-    
-    `;
-  }
   for (i = 0; i < document.getElementsByTagName("td").length; i++) {
     if (document.getElementsByTagName("td")[i].innerText.length == 0) {
       document.getElementsByTagName("td")[i].style.visibility = "hidden";
@@ -293,9 +272,7 @@ const secondProduct={product:[{title:"طرح چرم",side:"دو رو",size:"4.8 
   document
     .getElementById("navbar-new")
     .children[6].setAttribute("onclick", "changeItem(this ,'#seventhProduct')");
-  document
-    .getElementById("navbar-new")
-    .children[7].setAttribute("onclick", "changeItem(this ,'#eighthProduct')");
+  
   document.querySelector('html').style.scrollBehavior = 'smooth' //scroll-behavior: smooth;
 }
 if (document.getElementById("quickAccess")) {
