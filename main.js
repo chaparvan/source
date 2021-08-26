@@ -45,7 +45,7 @@ const fifthProduct={product:[{title:"تحریر ایرانی 80 گرم",side:"ی
       {
         title: "تراکت گلاسه 135 گرم",
         side: "یک رو",
-        size: "A6",
+        size: "A6 سایز دقیق",
         circulation: "1000",
         delivery: "1",
         price: 125000,
