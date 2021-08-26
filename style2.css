@@ -247,3 +247,8 @@ list-style: square !important;
 #boxQuestionAnswer .question-active::after {
     content: "\2212";
 }
+.mt-4, .my-4 {
+    margin-top: 1.5rem !important;
+    margin-right: 2rem !important;
+    margin-left: 2rem !important;
+}
