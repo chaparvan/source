@@ -256,5 +256,5 @@ list-style: square !important;
     margin-left: 2rem !important;
 }
 .bejustify {
-    style="text-align: justify;"
+    text-align: justify;
 }
