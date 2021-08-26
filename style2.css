@@ -65,6 +65,9 @@
     .image-pr {
         height: 140px;
     }
+    .content-from-text-editor ul, .content-from-text-editor ol {
+    padding-inline-start: 20px;
+}
 }
 
 
