@@ -255,3 +255,6 @@ list-style: square !important;
     margin-right: 2rem !important;
     margin-left: 2rem !important;
 }
+.bejustify {
+    style="text-align: justify;"
+}
