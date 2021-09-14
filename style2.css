@@ -258,3 +258,6 @@ list-style: square !important;
 .bejustify {
     text-align: justify;
 }
+.strong-gray{
+    color: #494949;
+  }
