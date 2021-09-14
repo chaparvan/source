@@ -545,7 +545,9 @@ body section .bg-light-gray .table tbody tr td .btn-yellow svg {
 body section .bg-light-gray .table tbody tr td .btn-yellow:hover {
   background-color: #e0e0e0;
 }
-
+.strong-gray{
+    color: #494949;
+  }
 body section .bg-light-gray .table tbody tr .money {
   color: #06c45b;
   font-family: iranyekan !important;
