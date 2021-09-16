@@ -526,6 +526,3 @@ list-style: square !important;
     margin-top: 15px;
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
 }
-template-chap-arvan-post-page h2:before {
-  content: '■'; 
-}
