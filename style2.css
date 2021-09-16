@@ -509,3 +509,10 @@ list-style: square !important;
 .template-chap p{
     margin:10px 0 ;
 }
+.btn-white{
+    background-color: white;
+    color: #333;
+    border: 1px solid #555;
+    border-radius: 20px;
+
+}
