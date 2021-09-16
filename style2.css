@@ -315,10 +315,10 @@ list-style: square !important;
     vertical-align: bottom;
     border-radius: 10px;
     cursor: pointer;
+    transition: 0.5s;
 }
 .splide__slide img:hover{
     filter: brightness(0.8);
-     transition: 0.5s;
 }
 .splide__slider {
     position: relative;
@@ -520,9 +520,9 @@ list-style: square !important;
     border-radius: 20px;
     margin: 20px 15px 0;
     padding: 8px 47px;
+    transition: 0.5s;
 }
 .btn-white:hover{
     margin-top: 15px;
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
-    transition: 0.5s;
 }
