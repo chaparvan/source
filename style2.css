@@ -313,7 +313,7 @@ list-style: square !important;
 }
 .splide__slide img {
     vertical-align: bottom;
-    border-radius:9px;
+    border-radius: 10px;
 }
 .splide__slider {
     position: relative;
