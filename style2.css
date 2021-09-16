@@ -497,15 +497,15 @@ list-style: square !important;
     right: 0.5em;
     transform: translateY(50%);
 }
-template-chap{
+.template-chap{
     background: #fcf4d8; 
     padding: 40px;
     margin:15px 0;
 }
-template-chap h2{
+.template-chap h2{
     font-size: 21px;
     font-weight: bold;
 }
-template-chap p{
+.template-chap p{
     margin:10px 0 ;
 }
