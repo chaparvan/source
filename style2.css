@@ -514,5 +514,11 @@ list-style: square !important;
     color: #333;
     border: 1px solid #555;
     border-radius: 20px;
-    margin: 10px;
+    margin: 20px 15px 0;
+    padding: 8px 47px;
+}
+.btn-white:hover{
+    margin-top: 15px;
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
+    transition: 0.5s;
 }
