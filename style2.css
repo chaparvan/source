@@ -500,6 +500,7 @@ list-style: square !important;
 template-chap{
     background: #fcf4d8; 
     padding: 40px;
+    margin:15px 0;
 }
 template-chap h2{
     font-size: 21px;
