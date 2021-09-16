@@ -2132,10 +2132,3 @@ $(function () {
     }).mount();
   }
 });
-Fancybox.bind("[data-fancybox]", { 
-   autoSize : true,
-        scrolling : 'auto',
-        fitToView : false,
-        width : 'auto',
-        maxWidth : '100%',
-})
