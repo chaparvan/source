@@ -500,3 +500,10 @@ template-chap{
     background: #fcf4d8; 
     padding: 40px;
 }
+template-chap h2{
+    font-size: 21px;
+    font-weight: bold;
+}
+template-chap p{
+    margin:10px 0 ;
+}
