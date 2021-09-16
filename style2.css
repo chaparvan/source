@@ -314,6 +314,7 @@ list-style: square !important;
 .splide__slide img {
     vertical-align: bottom;
     border-radius: 10px;
+    cursor: pointer;
 }
 .splide__slider {
     position: relative;
