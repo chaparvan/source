@@ -663,8 +663,10 @@ rules page
         padding: 35px;
         border-radius: 10px;
     }
-    .splide__arrow--prev {
+    .splide--rtl > .splide__arrows .splide__arrow--next,
+    .splide--rtl > .splide__track > .splide__arrows .splide__arrow--next {
         left: 0.3em;
+        right: auto;
     }
     .splide--rtl > .splide__arrows .splide__arrow--prev,
     .splide--rtl > .splide__track > .splide__arrows .splide__arrow--prev {
@@ -703,7 +705,7 @@ rules page
     .head-tg {
         height: 445px;
         background-size: 217%;
-       background-position: left 23% bottom;
+        background-position: left 23% bottom;
     }
 }
 @media screen and (max-width: 430px) {
@@ -717,20 +719,20 @@ rules page
     }
 }
 @media screen and (max-width: 390px) {
-.button-tg {
-    float: none;
-    width: 115px;
-    text-align: center;
-    cursor: pointer;
-    border-radius: 100px;
-    position: static;
-    padding: 4px 12px;
-    margin: 16px 0 16px auto;
-    display: block;
+    .button-tg {
+        float: none;
+        width: 115px;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 100px;
+        position: static;
+        padding: 4px 12px;
+        margin: 16px 0 16px auto;
+        display: block;
     }
-   .head-tg {
-      background-size: 217%;
-       height: 575px;
-       background-position: left 23% bottom;
-   }
+    .head-tg {
+        background-size: 217%;
+        height: 575px;
+        background-position: left 23% bottom;
+    }
 }
