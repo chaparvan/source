@@ -638,3 +638,8 @@ right: 206px;
     color: white;
     border: 1px solid black;
 }
+.button-tg:hover {
+    box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
+    transform: translate(0, -2px);
+    transition: 0.5s;
+}
