@@ -590,21 +590,21 @@ rules page
     background: #ff9c00;
 }
 .head-tg {
-      float: left;
-      width: 100%;
-      position: relative;
-      background-repeat: no-repeat;
-      background-image: url('https://teamgraphic.ir/upload/920/files/hqw4kOjm/37KVsaW9.png');
-      background-size: 100%;
-      background-position: left bottom;
-      height: 370px;
-      text-align: justify;
-      padding: 0 70px 0 430px;
-      user-select: none;
-      border-bottom: 1px solid #ccc;
-      margin-bottom: 30px;
-  }
-.head-tg p{
+    float: left;
+    width: 100%;
+    position: relative;
+    background-repeat: no-repeat;
+    background-image: url("https://teamgraphic.ir/upload/920/files/hqw4kOjm/37KVsaW9.png");
+    background-size: 100%;
+    background-position: left bottom;
+    height: 370px;
+    text-align: justify;
+    padding: 0 70px 0 430px;
+    user-select: none;
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 30px;
+}
+.head-tg p {
     margin-top: 37px;
     line-height: 28px;
 }
@@ -616,13 +616,14 @@ rules page
 .button-head-2-tg {
     right: 205px;
 }
-.button-head-1-tg , .button-head-2-tg {
+.button-head-1-tg,
+.button-head-2-tg {
     position: absolute;
     bottom: 7%;
     right: 60px;
 }
 .button-head-2-tg {
-right: 206px;
+    right: 206px;
 }
 .button-tg {
     float: right;
@@ -642,4 +643,9 @@ right: 206px;
     box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.3);
     transform: translate(0, -2px);
     transition: 0.5s;
+}
+.section-main-header h1 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-top: 5px;
 }
