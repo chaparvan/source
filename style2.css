@@ -714,3 +714,19 @@ rules page
         height: 500px;
     }
 }
+@media screen and (max-width: 390px) {
+.button-tg {
+    float: none;
+    width: 115px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 100px;
+    position: static;
+    padding: 4px 12px;
+    margin: 12px auto;
+    display: block;
+    }
+   .head-tg {
+    height: 530px;
+   }
+}
