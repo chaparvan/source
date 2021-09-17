@@ -350,7 +350,7 @@ if (document.getElementById("splide")) {
 
   if (isMobile) {
     new Splide("#splide", {
-      perPage: 1,
+      perPage: 2,
       direction: "rtl",
       pagination: false,
       rewind: true,
