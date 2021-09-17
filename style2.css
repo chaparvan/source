@@ -599,7 +599,7 @@ rules page
     background-position: left bottom;
     height: 370px;
     text-align: justify;
-    padding: 0 70px 0 430px;
+    padding: 0 70px 0 390px;
     user-select: none;
     border-bottom: 1px solid #ccc;
     margin-bottom: 30px;
@@ -654,7 +654,7 @@ rules page
         padding: 15px 60px;
     }
     .head-tg {
-        padding: 0 70px 0 370px;
+       padding: 0 70px 0 280px;
     }
     .splide__slide img {
         width: 100%;
