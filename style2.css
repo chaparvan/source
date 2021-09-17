@@ -724,10 +724,11 @@ rules page
     border-radius: 100px;
     position: static;
     padding: 4px 12px;
-    margin: 12px auto;
+    margin: 16px 0 16px auto;
     display: block;
     }
    .head-tg {
-    height: 530px;
+       background-size: 150%;
+    height: 575px;
    }
 }
