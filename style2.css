@@ -699,11 +699,8 @@ rules page
         height: 415px;
     }
 }
-@media screen and (max-width: 575px) {
-    .template-chap-arvan-post-page .col-md-4 {
-        width: 100%;
-    }
+@media screen and (max-width: 475px) {
     .head-tg {
-        height: 415px;
+        height: 445px;
     }
 }
