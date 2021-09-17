@@ -727,7 +727,7 @@ rules page
         cursor: pointer;
         border-radius: 100px;
         position: static;
-        padding: 4px 12px;
+        padding: 10px 12px;
         margin: 16px 0 16px auto;
         display: block;
     }
