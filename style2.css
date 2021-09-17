@@ -653,4 +653,7 @@ rules page
 .padding-c {
     padding: 15px 60px;
 }
+    .head-tg {
+    padding: 0 70px 0 370px;
+}
 }
