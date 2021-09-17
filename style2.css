@@ -657,10 +657,18 @@ rules page
         padding: 0 70px 0 370px;
     }
     .splide__slide img {
-    width: 100%;
-   }
-    .box-tg{
-     padding: 35px;
-     border-radius: 10px;
+        width: 100%;
+    }
+    .box-tg {
+        padding: 35px;
+        border-radius: 10px;
+    }
+    .splide__arrow--prev {
+        left: 0.3em;
+    }
+    .splide--rtl > .splide__arrows .splide__arrow--prev,
+    .splide--rtl > .splide__track > .splide__arrows .splide__arrow--prev {
+        right: 0.3em;
+        left: auto;
     }
 }
