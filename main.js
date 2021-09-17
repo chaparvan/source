@@ -347,8 +347,19 @@ if (document.getElementById("splide")) {
   $(function () {
   let isMobile = window.matchMedia("only screen and (max-width: 992px)")
     .matches;
-
-  if (isMobile) {
+    
+  let isMobile2 = window.matchMedia("only screen and (max-width: 768px)")
+    .matches;
+    
+  if (isMobile2) {
+    new Splide("#splide", {
+      perPage: 1,
+      direction: "rtl",
+      pagination: false,
+      rewind: true,
+    }).mount();
+  }
+   else if (isMobile) {
     new Splide("#splide", {
       perPage: 2,
       direction: "rtl",
