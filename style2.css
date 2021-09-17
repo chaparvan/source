@@ -550,7 +550,24 @@ margin-left: 6px;
     border-radius: 17px;
     box-shadow: 0 2px 3px 0 rgba(0, 0, 0, 0.3);
 }
-.chap-arvan-post span{
-    display:block;
-    margin:10px auto
+.chap-arvan-post p{
+    margin: 5px 0 ;
+}
+.chap-post-title{
+    position: relative;
+}
+.chap-post-title img{
+    border-top-right-radius: 17px;
+    border-top-left-radius: 17px;
+}
+.chap-post-title .chap-post-title-a{
+   position: absolute;
+bottom: 0;
+display: block;
+color: #fff;
+left: 0;
+right: 0;
+background: #ff9c00c2;
+padding: 9px;
+font-weight: bold;
 }
