@@ -601,4 +601,10 @@ rules page
       text-align: justify;
       padding: 0 70px 0 430px;
       user-select: none;
+      border-bottom: 1px solid #ccc;
+      margin-bottom: 30px;
   }
+.head-tg p{
+    margin-top: 27px;
+    line-height: 28px;
+}
