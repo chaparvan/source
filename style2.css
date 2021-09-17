@@ -608,3 +608,30 @@ rules page
     margin-top: 27px;
     line-height: 28px;
 }
+.white-tg {
+    background-color: white;
+    color: #333;
+    border: 1px solid #555;
+}
+.button-head-2-tg {
+    right: 205px;
+}
+.button-head-1-tg, .button-head-2-tg {
+    position: absolute;
+    bottom: 7%;
+    right: 60px;
+}
+.button-tg {
+    float: right;
+    width: 130px;
+    margin: 10px;
+    padding: 7px 0;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 100px;
+}
+.black-tg {
+    background-color: black;
+    color: white;
+    border: 1px solid black;
+}
