@@ -704,3 +704,8 @@ rules page
         height: 445px;
     }
 }
+@media screen and (max-width: 430px) {
+    .head-tg {
+        height: 475px;
+    }
+}
