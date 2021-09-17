@@ -1,3 +1,28 @@
-body{
-background:red;
+.bg-light-gray{
+  margin-top: 410px; 
+}
+@media screen and (max-width: 500px) {
+  .bg-light-gray{
+    margin-top: 455px; 
+  }
+}
+@media screen and (max-width: 475px) {
+  .bg-light-gray{
+    margin-top: 488px; 
+  }
+}
+@media screen and (max-width: 430px) {
+  .bg-light-gray{
+    margin-top: 515px; 
+  }
+}
+@media screen and (max-width: 400px) {
+  .bg-light-gray{
+    margin-top: 550px; 
+  }
+}
+@media screen and (max-width: 389px) {
+  .bg-light-gray{
+    margin-top: 612px; 
+  }
 }
