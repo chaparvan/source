@@ -673,7 +673,7 @@ rules page
     }
 }
 @media screen and (max-width: 992px) {
-  .col-md-4 {
+    .col-md-4 {
         width: 33.33333333%;
     }
     .col-md-1,
@@ -694,13 +694,12 @@ rules page
         padding: 0 40px;
     }
 }
-}
+
 @media screen and (max-width: 768px) {
-  .col-md-4 {
+    .col-md-4 {
         width: 50%;
     }
     .head-tg {
         padding: 0 30px;
     }
-}
 }
