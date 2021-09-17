@@ -728,7 +728,8 @@ rules page
     display: block;
     }
    .head-tg {
-       background-size: 150%;
-    height: 575px;
+      background-size: 217%;
+       height: 575px;
+       background-position: left 23% bottom;
    }
 }
