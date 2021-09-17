@@ -673,21 +673,8 @@ rules page
     }
 }
 @media screen and (max-width: 992px) {
-    .col-md-4 {
+    .template-chap-arvan-post-page .col-md-4 {
         width: 33.33333333%;
-    }
-    .col-md-1,
-    .col-md-2,
-    .col-md-3,
-    .col-md-4,
-    .col-md-5,
-    .col-md-6,
-    .col-md-7,
-    .col-md-8,
-    .col-md-9,
-    .col-md-10,
-    .col-md-11,
-    .col-md-12 {
         float: right;
     }
     .head-tg {
@@ -696,10 +683,27 @@ rules page
 }
 
 @media screen and (max-width: 768px) {
-    .col-md-4 {
+    .template-chap-arvan-post-page .col-md-4 {
         width: 50%;
     }
     .head-tg {
         padding: 0 30px;
+    }
+}
+
+@media screen and (max-width: 557px) {
+    .template-chap-arvan-post-page .col-md-4 {
+        width: 100%;
+    }
+    .head-tg {
+        height: 415px;
+    }
+}
+@media screen and (max-width: 557px) {
+    .template-chap-arvan-post-page .col-md-4 {
+        width: 100%;
+    }
+    .head-tg {
+        height: 415px;
     }
 }
