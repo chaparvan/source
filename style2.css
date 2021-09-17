@@ -616,10 +616,13 @@ rules page
 .button-head-2-tg {
     right: 205px;
 }
-.button-head-1-tg, .button-head-2-tg {
+.button-head-1-tg{
     position: absolute;
     bottom: 7%;
     right: 60px;
+}
+.button-head-2-tg {
+right: 206px;
 }
 .button-tg {
     float: right;
