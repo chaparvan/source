@@ -656,4 +656,10 @@ rules page
     .head-tg {
         padding: 0 70px 0 370px;
     }
+    .splide__slide img {
+    width: 100%;
+   }
+    .box-img-tg{
+     padding: 30px; 
+    }
 }
