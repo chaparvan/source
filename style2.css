@@ -709,3 +709,8 @@ rules page
         height: 475px;
     }
 }
+@media screen and (max-width: 400px) {
+    .head-tg {
+        height: 500px;
+    }
+}
