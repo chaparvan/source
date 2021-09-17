@@ -559,6 +559,9 @@ rules page
 }
 .chap-post-title {
     position: relative;
+    overflow: hidden;
+    border-top-right-radius: 17px;
+    border-top-left-radius: 17px;
 }
 .chap-post-title img {
     border-top-right-radius: 17px;
