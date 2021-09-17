@@ -702,7 +702,8 @@ rules page
 @media screen and (max-width: 475px) {
     .head-tg {
         height: 445px;
-        background-size: 170%;
+        background-size: 217%;
+       background-position: left 23% bottom;
     }
 }
 @media screen and (max-width: 430px) {
