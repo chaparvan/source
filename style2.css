@@ -589,3 +589,16 @@ rules page
 .chap-post-title:hover .chap-post-title-a {
     background: #ff9c00;
 }
+.head-tg {
+      float: left;
+      width: 100%;
+      position: relative;
+      background-repeat: no-repeat;
+      background-image: url('https://teamgraphic.ir/upload/920/files/hqw4kOjm/37KVsaW9.png');
+      background-size: 100%;
+      background-position: left bottom;
+      height: 370px;
+      text-align: justify;
+      padding: 0 70px 0 430px;
+      user-select: none;
+  }
