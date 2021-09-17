@@ -659,7 +659,8 @@ rules page
     .splide__slide img {
     width: 100%;
    }
-    .box-img-tg{
-     padding: 30px; 
+    .box-tg{
+     padding: 35px;
+     border-radius: 10px;
     }
 }
