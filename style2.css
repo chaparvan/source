@@ -534,3 +534,11 @@ background: #ff9d03;
 vertical-align: middle;
 margin-left: 6px;
 }
+.square-little{
+    display: inline-block;
+width: 6px;
+height: 6px;
+background: #ff9d03;
+vertical-align: middle;
+margin-left: 6px;
+}
