@@ -808,14 +808,14 @@ rules page
   background-color: transparent;
   display: block;
   height: auto;
-  margin-top: 9px;
+  margin-top: 6px;
   margin-bottom: 4px;
   overflow: visible;
 }
 
 .section-div_box-traket .squer-box .post-box .progress .progress-bar {
   display: block;
-  background-color: #12d672;
+  background-color: #ff9c00;
   height: 3.5px;
   position: relative;
   z-index: 1;
