@@ -509,7 +509,6 @@ rules page
     background: #fcf4d8;
     padding: 40px;
     margin: 15px 0;
-
 }
 .template-chap h2 {
     font-size: 21px;
@@ -738,128 +737,138 @@ rules page
         background-position: left 23% bottom;
     }
 }
-.section-div_box-traket{
-  display: flex;
-  justify-content: space-between;
+.section-div_box-traket {
+    display: flex;
+    justify-content: space-between;
 }
 .section-div_box-traket .squer-box h1 {
-  font-size: 1rem;
+    font-size: 1rem;
 }
 
 .section-div_box-traket .squer-box .post-box {
-  position: relative;
-  -webkit-animation: fadeIn 0.6s;
-          animation: fadeIn 0.6s;
-  background-color: #fff;
-  padding: 15px 15px 0;
-  -webkit-box-shadow: 0 0 31px -17px #aaa;
-          box-shadow: 0 0 31px -17px #aaa;
-  border-radius: 20px;
+    position: relative;
+    -webkit-animation: fadeIn 0.6s;
+    animation: fadeIn 0.6s;
+    background-color: #fff;
+    padding: 15px 15px 0;
+    -webkit-box-shadow: 0 0 31px -17px #aaa;
+    box-shadow: 0 0 31px -17px #aaa;
+    border-radius: 20px;
     margin: 9px;
 }
 .section-div_box-traket .squer-box .post-box img {
-  width: 100%;
-  border-radius: 12px;
+    width: 100%;
+    border-radius: 12px;
 }
 
 .section-div_box-traket .squer-box .post-box .play-img .btn-green svg path {
-  fill: #12d672;
+    fill: #12d672;
 }
 
 .section-div_box-traket .squer-box .post-box .play-img:hover .btn-green {
-  background-color: #12d672;
+    background-color: #12d672;
 }
 
 .section-div_box-traket .squer-box .post-box a {
-  color: #000;
+    color: #000;
 }
 
 .section-div_box-traket .squer-box .post-box a:hover {
-  color: #1b1b1b;
+    color: #1b1b1b;
 }
 
 .section-div_box-traket .squer-box .post-box span {
-  display: block;
-  color: #a8adbd;
-  margin: 20px 0;
+    display: block;
+    color: #a8adbd;
+    margin: 20px 0;
 }
 
 .section-div_box-traket .squer-box .post-box span a {
-  color: #a8adbd;
+    color: #a8adbd;
 }
 
 .section-div_box-traket .squer-box .post-box span a:hover {
-  color: #707480;
+    color: #707480;
 }
 
 .section-div_box-traket .squer-box .post-box .time {
-  font-size: 13px;
-  color: #707070;
+    font-size: 13px;
+    color: #707070;
 }
 
 .section-div_box-traket .squer-box .post-box .time svg {
-  margin-left: 6px;
-  width: 16px;
-  height: auto;
-  vertical-align: bottom;
+    margin-left: 6px;
+    width: 16px;
+    height: auto;
+    vertical-align: bottom;
 }
 
 .section-div_box-traket .squer-box .post-box .progress {
-  background-color: transparent;
-  display: block;
-  height: auto;
-  margin-top: 6px;
-  margin-bottom: 4px;
-  overflow: visible;
+    background-color: transparent;
+    display: block;
+    height: auto;
+    margin-top: 6px;
+    margin-bottom: 4px;
+    overflow: visible;
 }
 
 .section-div_box-traket .squer-box .post-box .progress .progress-bar {
-  display: block;
-  background-color: #ff9c00;
-  height: 3.5px;
-  position: relative;
-  z-index: 1;
-  border-radius: 10px;
+    display: block;
+    background-color: #ff9c00;
+    height: 3.5px;
+    position: relative;
+    z-index: 1;
+    border-radius: 10px;
 }
 
 .section-div_box-traket .squer-box .post-box .progress .bg {
-  width: 100%;
-  background: #d6d6d6;
-  position: relative;
-  top: -2.2px;
-  height: 1px;
+    width: 100%;
+    background: #d6d6d6;
+    position: relative;
+    top: -2.2px;
+    height: 1px;
 }
 
 .section-div_box-traket .squer-box .post-box:hover .progress-bar {
-  width: 32% !important;
+    width: 32% !important;
 }
 
 .section-div_box-traket .squer-box .post-box:hover {
-  -webkit-box-shadow: 0 0 40px -11px #aaa;
-          box-shadow: 0 0 40px -11px #aaa;
+    -webkit-box-shadow: 0 0 40px -11px #aaa;
+    box-shadow: 0 0 40px -11px #aaa;
 }
 
 .section-div_box-traket .squer-box .post-box:hover .progress-bar {
-  width: 100% !important;
+    width: 100% !important;
 }
 
 .section-div_box-traket .squer-box .post-box .progress {
-  margin-bottom: 0 !important;
-  position: relative;
-  top: 0.5px;
-  background-color: transparent;
+    margin-bottom: 0 !important;
+    position: relative;
+    top: 0.5px;
+    background-color: transparent;
 }
 
 .section-div_box-traket .squer-box .post-box .progress .bg {
-  display: none !important;
+    display: none !important;
 }
 
 .section-div_box-traket .squer-box .post-box h1 {
-  font-size: 17px;
-  margin-bottom: 8px;
-  line-height: 24px;
+    font-size: 17px;
+    margin-bottom: 8px;
+    line-height: 24px;
 }
 
 .section-div_box-traket .squer-box .post-box .progress {
-  height: 0.2rem;
+    height: 0.2rem;
+}
+.section-div_box-traket .squer-box .post-box .btn-yellow-new {
+    width: 100%;
+    margin: 10px 0;
+    background: #ff9c00;
+    color: #fff;
+}
+.section-div_box-traket .squer-box .post-box .btn-yellow-new:hover {
+    background: #e58c00;
+    color: #fff;
 }
