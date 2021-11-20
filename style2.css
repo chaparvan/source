@@ -879,3 +879,11 @@ box-shadow: none;
     background: #e58c00;
     color: #fff;
 }
+@media screen and (max-width: 475px) {
+    .section-div_box-traket .squer-box {
+       width: 150px;
+    }
+    .section-div_box-traket .squer-box .post-box h1 {
+       font-size: 13px !important;
+    }
+}
