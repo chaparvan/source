@@ -357,6 +357,7 @@ if (document.getElementById("splide")) {
       direction: "rtl",
       pagination: false,
       rewind: true,
+      perMove: 1,
     }).mount();
   }
    else if (isMobile) {
@@ -365,6 +366,7 @@ if (document.getElementById("splide")) {
       direction: "rtl",
       pagination: false,
       rewind: true,
+      perMove: 1,
     }).mount();
   }
   else{
@@ -373,6 +375,7 @@ if (document.getElementById("splide")) {
       direction: "rtl",
       pagination: false,
       rewind: true,
+      perMove: 1,
     }).mount();
   }
 });
