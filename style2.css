@@ -852,6 +852,8 @@ rules page
     top: -0.5px;
 background-color: transparent;
 margin: 0 8px;
+    -webkit-box-shadow: none;
+box-shadow: none;
 }
 
 .section-div_box-traket .squer-box .post-box .progress .bg {
