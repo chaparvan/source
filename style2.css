@@ -738,6 +738,10 @@ rules page
         background-position: left 23% bottom;
     }
 }
+.section-div_box-traket{
+  display: flex;
+  justify-content: space-between;
+}
 .section-div_box-traket .squer-box h1 {
   font-size: 1rem;
 }
@@ -751,89 +755,11 @@ rules page
   -webkit-box-shadow: 0 0 31px -17px #aaa;
           box-shadow: 0 0 31px -17px #aaa;
   border-radius: 20px;
+    margin: 9px;
 }
-
-.section-div_box-traket .squer-box .post-box .hashTag {
-  background-color: #fff !important;
-  color: #13273f !important;
-  position: absolute;
-  left: 20px;
-  top: 8px;
-  text-align: center;
-  padding: 8px 10px;
-  border-radius: 20px;
-  z-index: 1;
-}
-
-.section-div_box-traket .squer-box .post-box .hashTag:hover {
-  background-color: #f6f6f6 !important;
-}
-
-.section-div_box-traket .squer-box .post-box .delete-item {
-  background-color: #fff;
-  position: absolute;
-  left: 20px;
-  top: 8px;
-  width: 32px;
-  height: 32px;
-  text-align: center;
-  padding-top: 8px;
-  border-radius: 20px;
-}
-
-.section-div_box-traket .squer-box .post-box .delete-item svg {
-  display: inline-block;
-  width: 14px;
-  height: auto;
-}
-
-.section-div_box-traket .squer-box .post-box .delete-item span {
-  display: none;
-  position: relative;
-  top: 2px;
-  color: #000 !important;
-  font-size: 14px;
-  margin: 0;
-  margin-right: 5px;
-  -webkit-animation: fadeIn 1.3s;
-          animation: fadeIn 1.3s;
-}
-
-.section-div_box-traket .squer-box .post-box .delete-item:hover {
-  width: 77px;
-}
-
-.section-div_box-traket .squer-box .post-box .delete-item:hover span {
-  display: inline-block;
-}
-
 .section-div_box-traket .squer-box .post-box img {
   width: 100%;
   border-radius: 12px;
-}
-
-.section-div_box-traket .squer-box .post-box .play-img {
-  display: block;
-  position: relative;
-  text-align: center;
-}
-
-.section-div_box-traket .squer-box .post-box .play-img .btn-green {
-  position: absolute;
-  width: 45px;
-  height: 45px;
-  background-color: transparent;
-  border-radius: 50%;
-  border: 3px solid #12d672;
-  padding-top: 0;
-  padding-bottom: 0;
-  padding-left: 2px;
-  padding-right: 0;
-  right: 0;
-  left: 0;
-  margin-right: auto;
-  margin-left: auto;
-  top: 37%;
 }
 
 .section-div_box-traket .squer-box .post-box .play-img .btn-green svg path {
@@ -842,10 +768,6 @@ rules page
 
 .section-div_box-traket .squer-box .post-box .play-img:hover .btn-green {
   background-color: #12d672;
-}
-
-.section-div_box-traket .squer-box .post-box .play-img:hover .btn-green svg path {
-  fill: #fff;
 }
 
 .section-div_box-traket .squer-box .post-box a {
