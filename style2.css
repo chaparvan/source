@@ -845,8 +845,9 @@ rules page
 .section-div_box-traket .squer-box .post-box .progress {
     margin-bottom: 0 !important;
     position: relative;
-    top: 0.5px;
-    background-color: transparent;
+    top: -0.5px;
+background-color: transparent;
+margin: 0 8px;
 }
 
 .section-div_box-traket .squer-box .post-box .progress .bg {
@@ -854,8 +855,8 @@ rules page
 }
 
 .section-div_box-traket .squer-box .post-box h1 {
-    font-size: 17px;
-    margin-bottom: 8px;
+    font-size: 17px !important;
+    margin-top: 8px;
     line-height: 24px;
 }
 
