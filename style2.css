@@ -739,7 +739,7 @@ rules page
 }
 .section-div_box-traket {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     flex-flow: wrap;
 }
 .section-div_box-traket .squer-box{
