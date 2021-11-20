@@ -740,6 +740,10 @@ rules page
 .section-div_box-traket {
     display: flex;
     justify-content: space-between;
+    flex-flow: wrap;
+}
+.section-div_box-traket .squer-box{
+    width: 230px;
 }
 .section-div_box-traket .squer-box h1 {
     font-size: 1rem;
@@ -856,7 +860,7 @@ margin: 0 8px;
 
 .section-div_box-traket .squer-box .post-box h1 {
     font-size: 17px !important;
-    margin-top: 8px;
+    margin: 8px auto 0;
     line-height: 24px;
 }
 
