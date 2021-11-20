@@ -764,15 +764,6 @@ rules page
     width: 100%;
     border-radius: 12px;
 }
-
-.section-div_box-traket .squer-box .post-box .play-img .btn-green svg path {
-    fill: #12d672;
-}
-
-.section-div_box-traket .squer-box .post-box .play-img:hover .btn-green {
-    background-color: #12d672;
-}
-
 .section-div_box-traket .squer-box .post-box a {
     color: #000;
 }
@@ -780,13 +771,6 @@ rules page
 .section-div_box-traket .squer-box .post-box a:hover {
     color: #1b1b1b;
 }
-
-.section-div_box-traket .squer-box .post-box span {
-    display: block;
-    color: #a8adbd;
-    margin: 8px auto;
-}
-
 .section-div_box-traket .squer-box .post-box span a {
     color: #a8adbd;
 }
@@ -794,19 +778,6 @@ rules page
 .section-div_box-traket .squer-box .post-box span a:hover {
     color: #707480;
 }
-
-.section-div_box-traket .squer-box .post-box .time {
-    font-size: 13px;
-    color: #707070;
-}
-
-.section-div_box-traket .squer-box .post-box .time svg {
-    margin-left: 6px;
-    width: 16px;
-    height: auto;
-    vertical-align: bottom;
-}
-
 .section-div_box-traket .squer-box .post-box .progress {
     background-color: transparent;
     display: block;
@@ -824,15 +795,6 @@ rules page
     z-index: 1;
     border-radius: 10px;
 }
-
-.section-div_box-traket .squer-box .post-box .progress .bg {
-    width: 100%;
-    background: #d6d6d6;
-    position: relative;
-    top: -2.2px;
-    height: 1px;
-}
-
 .section-div_box-traket .squer-box .post-box:hover .progress-bar {
     width: 32% !important;
 }
