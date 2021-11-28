@@ -5574,6 +5574,9 @@ if (document.getElementById("splide")) {
     });
     document.querySelector("#splide").style.display = "none";
     setTimeout(() => {
+         document.querySelector("#splide").style.display = "none";
+    }, 1);
+    setTimeout(() => {
         document.querySelector("#splide").style.display = "block";
         document.querySelector("#spinner").style.display = "none";
     }, 3000);
