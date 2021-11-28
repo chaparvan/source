@@ -5574,15 +5574,16 @@ if (document.getElementById("splide")) {
     });
 }
 
-let showMoreText = (self, id) => {
-    let box = document.querySelector(id);
+let showMoreText = () => {
+    let box = document.querySelector("#textBox");
     if (box.offsetHeight == 300) {
         box.style.height = `${box.scrollHeight + 65}px`;
-        document.querySelector(` .direction`).style.transform = `rotate(180deg)`;
-        self.innerText = "مشاهده کمتر";
+        this.innerText = "مشاهده کمتر";
     } else {
         box.style.height = `300px`;
-        document.querySelector(` .direction`).style.transform = `rotate(0deg)`;
-        self.innerText = "مشاهده بیشتر";
+        this.innerText = "مشاهده بیشتر";
     }
 };
+if (document.getElementById("textBox")) {
+    document.querySelector("#showMoreText").addEventListener("click", showMoreText);
+}
