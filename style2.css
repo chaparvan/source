@@ -511,8 +511,9 @@ rules page
     justify-content: space-between;
     background: #fcf4d8;
     padding: 40px;
-    margin: 15px 0;
+    margin: 15px auto;
     height: 395.7px;
+    width: 96%;
 }
 .template-chap h2 {
     font-size: 21px;
