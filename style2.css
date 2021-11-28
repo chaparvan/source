@@ -907,7 +907,7 @@ rules page
   width: 8rem;
   height: 8rem;
   border-radius: 50%;
-  background: conic-gradient(rgba(255, 255, 255, 0.25rgb(255, 255, 255)954);
+  background: conic-gradient(rgba(255, 255, 255, 0.25), #ffffff);
   position: relative;
   animation: spin 1.4s linear infinite;
   transform: translateZ(0);
