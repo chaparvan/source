@@ -850,8 +850,7 @@ rules page
     }
 }
 .about-section {
-    margin-top: 40px;
-    margin-bottom: 50px;
+   margin-bottom: -26px;
 }
 
 .about-section .btn-gray {
@@ -875,6 +874,7 @@ rules page
 }
 .about-section .text-box p {
     color: #707070;
+    line-height: 28px;
     text-align: justify;
 }
 
@@ -885,7 +885,7 @@ rules page
     filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#ffffff",GradientType=1);
     width: 100%;
     position: relative;
-    bottom: 94px;
+    bottom: 66px;
     right: 0;
     padding: 15px 0;
 }
