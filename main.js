@@ -5572,16 +5572,11 @@ if (document.getElementById("splide")) {
             }).mount();
         }
     });
+
     setTimeout(() => {
-        document.querySelector("#splide").style.display = "none";
-    }, 1);
-    window.addEventListener("load", function () {
-        setTimeout(() => {
-            document.querySelector("#splide").style.display = "block";
-            document.querySelector("#spinner").style.display = "none";
-        }, 5500);
-        console.log("salarsr.xyz");
-    });
+        document.querySelector("#splide").style.display = "block";
+        document.querySelector("#spinner").style.display = "none";
+    }, 3000);
 }
 
 let showMoreText = () => {
