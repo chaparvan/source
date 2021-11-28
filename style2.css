@@ -509,7 +509,6 @@ rules page
     display: flex;
     flex-flow: column;
     justify-content: space-between;
-    align-items: center;
     background: #fcf4d8;
     padding: 40px;
     margin: 15px 0;
@@ -908,6 +907,7 @@ rules page
   width: 8rem;
   height: 8rem;
   border-radius: 50%;
+  margin:0 auto;
   background: conic-gradient(rgba(255, 255, 255, 0.25), #ffffff);
   position: relative;
   animation: spin 1.4s linear infinite;
