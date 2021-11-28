@@ -5572,7 +5572,6 @@ if (document.getElementById("splide")) {
             }).mount();
         }
     });
-    document.querySelector("#splide").style.display = "none";
     setTimeout(() => {
         document.querySelector("#splide").style.display = "none";
     }, 1);
