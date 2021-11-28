@@ -5572,6 +5572,11 @@ if (document.getElementById("splide")) {
             }).mount();
         }
     });
+    document.querySelector("#splide").style.display = "none";
+    setTimeout(() => {
+        document.querySelector("#splide").style.display = "block";
+        document.querySelector("#spinner").style.display = "none";
+    }, 3000);
 }
 
 let showMoreText = () => {
