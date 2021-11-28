@@ -742,7 +742,7 @@ rules page
     justify-content: center;
     flex-flow: wrap;
 }
-.section-div_box-traket .squer-box{
+.section-div_box-traket .squer-box {
     width: 220px;
 }
 .section-div_box-traket .squer-box h1 {
@@ -812,10 +812,10 @@ rules page
     margin-bottom: 0 !important;
     position: relative;
     top: -0.5px;
-background-color: transparent;
-margin: 0 8px;
+    background-color: transparent;
+    margin: 0 8px;
     -webkit-box-shadow: none;
-box-shadow: none;
+    box-shadow: none;
 }
 
 .section-div_box-traket .squer-box .post-box .progress .bg {
@@ -843,9 +843,59 @@ box-shadow: none;
 }
 @media screen and (max-width: 475px) {
     .section-div_box-traket .squer-box {
-       width: 150px;
+        width: 150px;
     }
     .section-div_box-traket .squer-box .post-box h1 {
-       font-size: 13px !important;
+        font-size: 13px !important;
     }
+}
+.about-section {
+    margin-top: 40px;
+    margin-bottom: 50px;
+}
+
+.about-section .btn-gray {
+    position: relative;
+    background-color: #a8adbd;
+    color: #fff;
+    border-radius: 20px;
+    z-index: 100;
+}
+
+.about-section .text-box {
+    position: relative;
+    height: 300px;
+    padding: 20px 25px;
+    overflow: hidden;
+    -webkit-box-shadow: 0 3px 18px -16px #131313;
+    box-shadow: 0 3px 18px -16px #131313;
+    -webkit-transition: all 500ms ease-out;
+    transition: all 500ms ease-out;
+    border-radius: 3px;
+}
+.about-section .text-box p {
+    color: #707070;
+    text-align: justify;
+}
+
+.about-section .shadow-white {
+    background: white;
+    background: -webkit-gradient(linear, left bottom, left top, from(white), to(rgba(255, 255, 255, 0.471102)));
+    background: linear-gradient(0deg, white 0%, rgba(255, 255, 255, 0.471102) 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ffffff",endColorstr="#ffffff",GradientType=1);
+    width: 100%;
+    position: relative;
+    bottom: 94px;
+    right: 0;
+    padding: 15px 0;
+}
+
+.about-section .shadow-white svg {
+    width: 100%;
+    display: block;
+}
+
+.about-section .shadow-white svg:nth-child(2) {
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
 }
