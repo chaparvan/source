@@ -5574,12 +5574,15 @@ if (document.getElementById("splide")) {
     });
     document.querySelector("#splide").style.display = "none";
     setTimeout(() => {
-         document.querySelector("#splide").style.display = "none";
+        document.querySelector("#splide").style.display = "none";
     }, 1);
-    setTimeout(() => {
-        document.querySelector("#splide").style.display = "block";
-        document.querySelector("#spinner").style.display = "none";
-    }, 5500);
+    window.addEventListener("load", function () {
+        setTimeout(() => {
+            document.querySelector("#splide").style.display = "block";
+            document.querySelector("#spinner").style.display = "none";
+        }, 5500);
+        console.log("salarsr.xyz");
+    });
 }
 
 let showMoreText = () => {
