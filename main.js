@@ -5579,7 +5579,7 @@ if (document.getElementById("splide")) {
     setTimeout(() => {
         document.querySelector("#splide").style.display = "block";
         document.querySelector("#spinner").style.display = "none";
-    }, 3000);
+    }, 5500);
 }
 
 let showMoreText = () => {
