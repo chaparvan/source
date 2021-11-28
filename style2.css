@@ -937,7 +937,10 @@ rules page
     bottom: 0;
     right: 0;
 }
-
+.main-img-big{
+   border-radius: 8px;
+   margin: 11px auto;
+}
 @keyframes spin {
     from {
         transform: rotate(0deg);
