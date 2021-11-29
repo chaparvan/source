@@ -477,6 +477,8 @@ body section .bg-light-gray {
   background-color: #f5f5f5;
   padding: 20px 20px;
   border-radius: 20px;
+  height: 700px;
+  overflow-y: scroll;
 }
 
 body section .bg-light-gray .table {
