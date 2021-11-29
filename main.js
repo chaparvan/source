@@ -5581,7 +5581,7 @@ if (document.getElementById("splide")) {
 
 let showMoreText = () => {
     let box = document.querySelector("#textBox");
-    if (box.offsetHeight == 300) {
+    if (box.offsetHeight == 200) {
         box.style.height = `${box.scrollHeight}px`;
         document.querySelector("#showMoreText").parentElement.style.display = "none";
     }
