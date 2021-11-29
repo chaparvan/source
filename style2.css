@@ -855,7 +855,7 @@ rules page
     }
 }
 .about-section {
-    margin-bottom: -26px;
+    margin-bottom: 10px;
 }
 
 .about-section .btn-gray {
@@ -891,6 +891,7 @@ rules page
     width: 100%;
     position: relative;
     bottom: 66px;
+    margin-bottom: -64px;
     right: 0;
     padding: 15px 0;
 }
