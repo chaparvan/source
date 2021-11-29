@@ -5583,10 +5583,7 @@ let showMoreText = () => {
     let box = document.querySelector("#textBox");
     if (box.offsetHeight == 300) {
         box.style.height = `${box.scrollHeight + 65}px`;
-        this.innerText = "مشاهده کمتر";
-    } else {
-        box.style.height = `300px`;
-        this.innerText = "مشاهده بیشتر";
+        this.style.display = "none";
     }
 };
 if (document.getElementById("textBox")) {
