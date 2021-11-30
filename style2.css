@@ -939,9 +939,12 @@ rules page
     right: 0;
 }
 .main-img-big{
-   width: 100%;
+   width: 50%;
    border-radius: 8px;
+   display: block;
    margin: 11px auto;
+   margin-left: auto;
+   margin-right: auto
 }
 @keyframes spin {
     from {
@@ -961,6 +964,9 @@ rules page
     }
 }
 @media screen and (max-width: 992px) {
+    .main-img-big{
+        width: 100%;
+    }
     .template-chap {
         height: 527.7px;
     }
@@ -970,6 +976,9 @@ rules page
 }
 
 @media screen and (max-width: 768px) {
+    .main-img-big{
+        width: 100%;
+    }
     .template-chap {
         height: 698.7px;
     }
@@ -981,5 +990,8 @@ rules page
 @media screen and (max-width: 450px) {
     .template-chap {
         height: 630.7px;
+    }
+    .main-img-big{
+        width: 100%;
     }
 }
