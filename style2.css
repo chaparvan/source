@@ -750,7 +750,7 @@ rules page
 .section-div_box-traket .squer-box {
     width: 220px;
 }
-.section-div_box-traket .squer-box h4 {
+.section-div_box-traket .squer-box h2 {
     font-size: 1rem;
 }
 
@@ -827,7 +827,7 @@ rules page
     display: none !important;
 }
 
-.section-div_box-traket .squer-box .post-box h4 {
+.section-div_box-traket .squer-box .post-box h2 {
     font-size: 17px !important;
     margin: 8px auto 0;
     line-height: 24px;
