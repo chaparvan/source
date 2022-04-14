@@ -3585,7 +3585,7 @@ if (document.getElementById("firstProduct")) {
                 price: 840000,
                 href: "https://chaparvan.com/product/MjYxOTc2=/%D9%BE%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-10%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
-                classHtml: "",
+                classHtml: "white",
             },
             {
                 title: "",
@@ -3596,7 +3596,7 @@ if (document.getElementById("firstProduct")) {
                 price: 1590000,
                 href: "https://chaparvan.com/product/MjYxOTg2=/%D9%BE%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-10%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
-                classHtml: "",
+                classHtml: "white",
             },
             {
                 title: "",
@@ -3607,7 +3607,7 @@ if (document.getElementById("firstProduct")) {
                 price: 3060000,
                 href: "https://chaparvan.com/product/MjYxOTk0=/%D9%BE%D8%A7%DA%A9%D8%AA-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-10%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
-                classHtml: "",
+                classHtml: "white",
             },
             {
                 title: "پاکت کرافت 80 گرم",
@@ -3618,7 +3618,7 @@ if (document.getElementById("firstProduct")) {
                 price: 780000,
                 href: "https://chaparvan.com/product/MzI0Nzk5=/%D9%BE%D8%A7%DA%A9%D8%AA-%D9%85%D9%84%D8%AE%DB%8C-%DA%A9%D8%B1%D8%A7%D9%81%D8%AA-10-%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
-                classHtml: "white",
+                classHtml: "",
             },
             {
                 title: "",
@@ -3629,7 +3629,7 @@ if (document.getElementById("firstProduct")) {
                 price: 1335000,
                 href: "https://chaparvan.com/product/MzI0Nzk5=/%D9%BE%D8%A7%DA%A9%D8%AA-%D9%85%D9%84%D8%AE%DB%8C-%DA%A9%D8%B1%D8%A7%D9%81%D8%AA-10-%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
-                classHtml: "",
+                classHtml: "white",
             },
             {
                 title: "",
@@ -3640,7 +3640,7 @@ if (document.getElementById("firstProduct")) {
                 price: 890000,
                 href: "https://chaparvan.com/product/MzI0Nzk1=/%D9%BE%D8%A7%DA%A9%D8%AA-%DA%A9%D8%B1%D8%A7%D9%81%D8%AA-10%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
-                classHtml: "",
+                classHtml: "white",
             },
             {
                 title: "",
@@ -3651,7 +3651,7 @@ if (document.getElementById("firstProduct")) {
                 price: 1530000,
                 href: "https://chaparvan.com/product/MzI0Nzk1=/%D9%BE%D8%A7%DA%A9%D8%AA-%DA%A9%D8%B1%D8%A7%D9%81%D8%AA-10%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
-                classHtml: "",
+                classHtml: "white",
             },
             {
                 title: "",
@@ -3662,7 +3662,7 @@ if (document.getElementById("firstProduct")) {
                 price: 1680000,
                 href: "https://chaparvan.com/product/MzI0ODAx=/%D9%BE%D8%A7%DA%A9%D8%AA-%DA%A9%D8%B1%D8%A7%D9%81%D8%AA-10%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
-                classHtml: "",
+                classHtml: "white",
             },
             {
                 title: "",
@@ -3673,7 +3673,7 @@ if (document.getElementById("firstProduct")) {
                 price: 2816000,
                 href: "https://chaparvan.com/product/MzI0ODAx=/%D9%BE%D8%A7%DA%A9%D8%AA-%DA%A9%D8%B1%D8%A7%D9%81%D8%AA-10%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
-                classHtml: "",
+                classHtml: "white",
             },
         ],
     };
