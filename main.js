@@ -4477,7 +4477,7 @@ if (document.getElementById("firstProduct")) {
                 side: "یک رو",
                 size: "A4",
                 circulation: "1000",
-                delivery: "6ساعته"
+                delivery: "6ساعته",
                 price: 1050000,
                 href: "https://chaparvan.com/product/MzI2MzIy=/%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-%D8%AA%DA%A9-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-6-%D8%B3%D8%A7%D8%B9%D8%AA%D9%87",
                 btn: "خرید",
@@ -4488,7 +4488,7 @@ if (document.getElementById("firstProduct")) {
                 side: "یک رو",
                 size: "A4",
                 circulation: "2000",
-                delivery: "6ساعته"
+                delivery: "6ساعته",
                 price: 1950000,
                 href: "https://chaparvan.com/product/MzI2MzIy=/%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-%D8%AA%DA%A9-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-6-%D8%B3%D8%A7%D8%B9%D8%AA%D9%87",
                 btn: "خرید",
@@ -4499,7 +4499,7 @@ if (document.getElementById("firstProduct")) {
                 side: "یک رو",
                 size: "A4",
                 circulation: "5000",
-                delivery: "6ساعته"
+                delivery: "6ساعته",
                 price: 4760000,
                 href: "https://chaparvan.com/product/MzI2MzIy=/%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-%D8%AA%DA%A9-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-6-%D8%B3%D8%A7%D8%B9%D8%AA%D9%87",
                 btn: "خرید",
@@ -4510,7 +4510,7 @@ if (document.getElementById("firstProduct")) {
                 side: "یک رو",
                 size: "A4",
                 circulation: "1000",
-                delivery: "4"
+                delivery: "4",
                 price: 940000,
                 href: "https://chaparvan.com/product/MzI2MzIz=/%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-%D8%AA%DA%A9-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-4%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
@@ -4521,7 +4521,7 @@ if (document.getElementById("firstProduct")) {
                 side: "یک رو",
                 size: "A4",
                 circulation: "2000",
-                delivery: "4"
+                delivery: "4",
                 price: 1870000,
                 href: "https://chaparvan.com/product/MzI2MzIz=/%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-%D8%AA%DA%A9-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-4%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
@@ -4532,7 +4532,7 @@ if (document.getElementById("firstProduct")) {
                 side: "یک رو",
                 size: "A4",
                 circulation: "5000",
-                delivery: "4"
+                delivery: "4",
                 price: 4680000,
                 href: "https://chaparvan.com/product/MzI2MzIz=/%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-%D8%AA%DA%A9-%D8%B1%D9%86%DA%AF-%D9%85%D8%B4%DA%A9%DB%8C-4%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
@@ -4543,7 +4543,7 @@ if (document.getElementById("firstProduct")) {
                 side: "یک رو",
                 size: "A5",
                 circulation: "1000",
-                delivery: "7"
+                delivery: "7",
                 price: 940000,
                 href: "https://chaparvan.com/product/MzI2MzE1=/%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-%DA%86%D9%87%D8%A7%D8%B1-%D8%B1%D9%86%DA%AF-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
@@ -4554,7 +4554,7 @@ if (document.getElementById("firstProduct")) {
                 side: "یک رو",
                 size: "A5",
                 circulation: "2000",
-                delivery: "7"
+                delivery: "7",
                 price: 1930000,
                 href: "https://chaparvan.com/product/MzI2MzE1=/%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-%DA%86%D9%87%D8%A7%D8%B1-%D8%B1%D9%86%DA%AF-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
@@ -4565,7 +4565,7 @@ if (document.getElementById("firstProduct")) {
                 side: "یک رو",
                 size: "A5",
                 circulation: "5000",
-                delivery: "7"
+                delivery: "7",
                 price: 2900000,
                 href: "https://chaparvan.com/product/MzI2MzE1=/%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-%DA%86%D9%87%D8%A7%D8%B1-%D8%B1%D9%86%DA%AF-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
@@ -4576,7 +4576,7 @@ if (document.getElementById("firstProduct")) {
                 side: "یک رو",
                 size: "A4",
                 circulation: "1000",
-                delivery: "7"
+                delivery: "7",
                 price: 1480000,
                 href: "https://chaparvan.com/product/MzI2MzI0=/%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-%DA%86%D9%87%D8%A7%D8%B1-%D8%B1%D9%86%DA%AF-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
@@ -4587,7 +4587,7 @@ if (document.getElementById("firstProduct")) {
                 side: "یک رو",
                 size: "A4",
                 circulation: "2000",
-                delivery: "7"
+                delivery: "7",
                 price: 2430000,
                 href: "https://chaparvan.com/product/MzI2MzI0=/%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-%DA%86%D9%87%D8%A7%D8%B1-%D8%B1%D9%86%DA%AF-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
@@ -4598,7 +4598,7 @@ if (document.getElementById("firstProduct")) {
                 side: "یک رو",
                 size: "A4",
                 circulation: "5000",
-                delivery: "7"
+                delivery: "7",
                 price: 5100000,
                 href: "https://chaparvan.com/product/MzI2MzI0=/%D9%81%D8%A7%DA%A9%D8%AA%D9%88%D8%B1-%D8%AA%D8%AD%D8%B1%DB%8C%D8%B1-%DA%86%D9%87%D8%A7%D8%B1-%D8%B1%D9%86%DA%AF-7%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
