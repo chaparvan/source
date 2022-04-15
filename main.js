@@ -3405,7 +3405,7 @@ if (document.getElementById("firstProduct")) {
                 size: "(ملخی)نامه",
                 circulation: "2000",
                 delivery: "10",
-                price: 900000,
+                price: 1510000,
                 href: "https://chaparvan.com/product/MjYxOTcw=/%D9%BE%D8%A7%DA%A9%D8%AA-%D9%86%D8%A7%D9%85%D9%87-%DA%AF%D9%84%D8%A7%D8%B3%D9%87-10-%D8%B1%D9%88%D8%B2-%DA%A9%D8%A7%D8%B1%DB%8C",
                 btn: "خرید",
                 classHtml: "white",
