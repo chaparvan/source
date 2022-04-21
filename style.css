@@ -609,7 +609,7 @@ body section .display-table-row-group {
     margin-top: 45%;
     }
 }
-@media screen and (max-width: 500px) {
+/* @media screen and (max-width: 500px) {
     #loader {
     margin-top: 52%;
     }
@@ -639,7 +639,7 @@ top: -11px;
     position: relative;
     top: -24px;
 }
-}
+} */
 @media screen and (max-width: 767px) {
     body section .bg-light-gray .table thead th {
       font-size: 14px !important;
@@ -677,13 +677,16 @@ top: -7px;
 }
 @media screen and (max-width: 365px) {
     body section .bg-light-gray .table thead th {
-      font-size: 12px !important;
+      font-size: 11px !important;
     }
     body section .table tbody tr{
-      font-size: 11px !important;
+      font-size: 12px !important;
     }
     
     body section .bg-light-gray .table tbody tr td:last-child{
         padding-left: 2px;
+    }
+    body section .bg-light-gray .table tbody tr td .btn-yellow {
+      font-size: 11px;
     }
 }
