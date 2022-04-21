@@ -660,7 +660,7 @@ top: -7px;
     padding-right: 3px;
 }
 }
-@media screen and (max-width: 400px) {
+/* @media screen and (max-width: 400px) {
     body section .bg-light-gray .table thead th {
       font-size: 13px !important;
     }
@@ -674,8 +674,8 @@ top: -7px;
     body section .bg-light-gray .table tbody tr td:last-child{
         padding-left: 3px;
     }
-}
-@media screen and (max-width: 365px) {
+} */
+@media screen and (max-width: 500px) {
     body section .bg-light-gray .table thead th {
       font-size: 11px !important;
     }
