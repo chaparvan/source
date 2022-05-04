@@ -263,7 +263,7 @@ q:after {
   content: none;
 }
 
-html,
+/*html,
 body {
   width: 100%;
   height: 100%;
@@ -276,7 +276,7 @@ body {
   -o-box-sizing: border-box;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.05s ease-in-out;
-}
+}*/
 
 a {
   margin: 0;
